@@ -5,7 +5,7 @@
   Working on:
 
   <ul>
-    <li><a href="#" style="text-decoration: none;">Vinted View Bot</a></li>
+    <li><a href="#">Vinted View Bot</a></li>
   </ul>
 </p>
 
